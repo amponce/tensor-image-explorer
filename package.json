@@ -1,0 +1,17 @@
+{
+  "name": "ibm-image-recogintion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aaron.m.ponce@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@codait/max-vis": "^0.3.0",
+    "@tensorflow-models/coco-ssd": "^2.1.0",
+    "@tensorflow/tfjs-node": "^2.6.0"
+  }
+}
