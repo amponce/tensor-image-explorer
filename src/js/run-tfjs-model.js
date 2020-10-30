@@ -2,7 +2,7 @@ const tf = require('@tensorflow/tfjs-node');
 const maxvis = require('@codait/max-vis');
 const fs = require('fs');
 const path = require('path');
-const labels = require('./labels.js');
+const labels = require('../labels/labels.js');
 
 const modelUrl =
   'https://tfhub.dev/tensorflow/tfjs-model/ssdlite_mobilenet_v2/1/default/1';
