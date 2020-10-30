@@ -1,6 +1,5 @@
-# tensor-image-explorer
 
-- Tensor image explorer prototype
+# Tensor image explorer prototype
 
 The predictions are currently output into the console and the annotated image is generated when you run the program.
 An example can be found in the src/assests
